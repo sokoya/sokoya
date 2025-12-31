@@ -6,7 +6,7 @@
 
   [![Twitter Follow](https://img.shields.io/twitter/follow/sokoyaphilip?logo=twitter&style=for-the-badge&color=1DA1F2)](https://twitter.com/sokoyaphilip)
   [![Website](https://img.shields.io/badge/Website-sokoyaphilip.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sokoyaphilip.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soko)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sokoyaphilip)
 
 </div>
 
