@@ -15,6 +15,7 @@
 I'm a passionate **Full-Stack Software Engineer** from Nigeria, building innovative solutions and exploring the Web3 space. Currently working on revolutionizing digital payments and diving deep into blockchain technology.
 
 - 🔭 Building [**Payscribe**](https://www.payscribe.ng) - Next-gen payment solutions
+- 🌱 Mastering **AI & Data Science** & Smart Contracts
 - 🌱 Mastering **Ethereum Blockchain** & Smart Contracts
 - 💼 Open to collaborating on impactful projects
 - 💬 Ask me about **React, Node.js, Blockchain, or Full-Stack Development**
