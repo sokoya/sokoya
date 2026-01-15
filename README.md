@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Software Engineer** from Nigeria, building innovative solutions and exploring the Web3 space. Currently working on revolutionizing digital payments and diving deep into blockchain technology.
+I'm a passionate **Full-Stack Software Engineer**, **Tech Founder** from Nigeria, living in UK, building innovative solutions and exploring the Web3 space. Currently working on revolutionizing digital payments and diving deep into blockchain technology.
 
 - 🔭 Building [**Payscribe**](https://www.payscribe.ng) - Next-gen payment solutions
 - 🌱 Mastering **AI & Data Science** & Smart Contracts
